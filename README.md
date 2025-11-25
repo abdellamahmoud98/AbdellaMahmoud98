@@ -7,7 +7,7 @@ Hi 👋 I am Abdella Mahmoud.
 
 •⁠  ⁠I’m a DevOps engineer, Toronto Canada.
 
-•⁠  ⁠I’m currently interested in Cloud and AI
+•⁠  ⁠I’m currently interested in Cloud and Cybersecurity 
 
 •⁠  ⁠I’m currently exploring the Cloud space and obtaining cloud practionr.
 
@@ -29,7 +29,6 @@ Connect with me on LinkedIn : www.linkedin.com/in/abdellamahmoud
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![image](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
@@ -37,4 +36,3 @@ Connect with me on LinkedIn : www.linkedin.com/in/abdellamahmoud
 ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![image](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![Name](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Name](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
