@@ -43,4 +43,3 @@ Connect with me on LinkedIn : www.linkedin.com/in/abdellamahmoud
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![image](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![Name](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
